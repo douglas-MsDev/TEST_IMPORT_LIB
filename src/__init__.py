@@ -1,3 +1,3 @@
-from testlib.a import *
+from teslib.src.teslib.a import *
 
 __all__ = ["a"]
